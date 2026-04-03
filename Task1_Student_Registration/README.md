@@ -17,7 +17,7 @@ A web application to register students and store their details in a database.
 1. Start XAMPP
 2. Open:
 
-http://localhost/student_project/index.html
+http://localhost/student_project/Task1_Student_Registration/index.html
 
 
 ## 📸 Output
