@@ -17,7 +17,7 @@ This dashboard displays student records with sorting, filtering, and counting fe
 1. Start XAMPP (Apache + MySQL)
 2. Open:
 
-http://localhost/student_project/Task2_Dashboard/dashboard.php
+http://localhost/student_project/Task2_Student_Registration/dashboard.php
 
 
 ## 📸 Output
